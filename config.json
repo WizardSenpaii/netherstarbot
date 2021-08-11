@@ -1,0 +1,9 @@
+{
+	"ip":"NetherStarSMP.aternos.me",
+	"port": 25565,
+	"name": "netherstarbot",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register netherstar222333",
+	"login-cmd":"/login netherstar222333"
+}
